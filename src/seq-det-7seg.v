@@ -17,7 +17,7 @@
 
 `define default_netname none
 
-module tt_um_3515_sequenceDetector (
+module tt_um_sequence_detector (
     input  wire [7:0] ui_in,    // Dedicated inputs
     input  wire [7:0] uio_in,   // IOs: Input path
     output wire [7:0] uo_out,   // Dedicated outputs
