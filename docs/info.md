@@ -12,6 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 - In this project, we have made a sequence detector using finite state machine (FSM)
 - This is made using verilog, and detects sequence '1001'
 - The logic is made using cases, and it makes sure to detect the sequence while covering overlapping case as well
+- After detecting the sequence, the output is supposed to be '8.' else '-'
 
 ## How to test
 
